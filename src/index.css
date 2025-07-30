@@ -106,12 +106,11 @@ ul.ingredients-list > li {
   cursor: pointer;
 }
 footer > h1 {
-  position: fixed;
-  bottom: 10px;
-  width: 100%;
   text-align: center;
   background: transparent;
   color: #888;
   font-size: 14px;
   font-family: sans-serif;
+  margin-top: 2rem;
+  padding-bottom: 1rem;
 }
